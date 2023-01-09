@@ -1,3 +1,1 @@
-# Fluxr
-
-Flxur is a
+# Positev Foundation
